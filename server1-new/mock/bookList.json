@@ -1,0 +1,889 @@
+[
+  {
+    "kindId": 1,
+    "kindName": "计算机",
+    "kindIcon": "",
+    "kindSliderImgs": [
+      "https://j-image.missfresh.cn/img_20171122152918954.jpg?iopcmd=thumbnail&type=4&width=640",
+      "https://j-image.missfresh.cn/img_20171213140122098.jpg?iopcmd=thumbnail&type=4&width=640"
+    ],
+    "list": [
+      {
+        "bookId": 1,
+        "bookName": "react全栈课程",
+        "bookAuthor": "XXX",
+
+        "bookIcon": "",
+        "bookImgs": "https://m.360buyimg.com/mobilecms/s357x357_jfs/t3421/92/270677877/214026/8f366557/5804fe11Nde9d5f1a.jpg!q50.jpg",
+        "description": "与React|Angular三分天下",
+        "bookPrice": 32.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 134,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      },
+      {
+        "bookId": 2,
+        "bookName": "react全栈课程",
+        "bookAuthor": "XXX",
+
+        "bookIcon": "",
+        "bookImgs": "https://m.360buyimg.com/mobilecms/s357x357_jfs/t3421/92/270677877/214026/8f366557/5804fe11Nde9d5f1a.jpg!q50.jpg",
+        "description": "与React|Angular三分天下",
+        "bookPrice": 88.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      },
+      {
+        "bookId": 3,
+        "bookName": "react全栈课程",
+        "bookAuthor": "XXX",
+
+        "bookIcon": "",
+        "bookImgs": "https://m.360buyimg.com/mobilecms/s357x357_jfs/t3421/92/270677877/214026/8f366557/5804fe11Nde9d5f1a.jpg!q50.jpg",
+        "description": "与React|Angular三分天下",
+        "bookPrice": 88.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      },
+      {
+        "bookId": 4,
+        "bookName": "react全栈课程",
+        "bookAuthor": "XXX",
+
+        "bookIcon": "",
+        "bookImgs": "https://m.360buyimg.com/mobilecms/s357x357_jfs/t3421/92/270677877/214026/8f366557/5804fe11Nde9d5f1a.jpg!q50.jpg",
+        "description": "与React|Angular三分天下",
+        "bookPrice": 88.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      },
+      {
+        "bookId": 5,
+        "bookName": "react全栈课程",
+        "bookAuthor": "XXX",
+
+        "bookIcon": "",
+        "bookImgs": "https://m.360buyimg.com/mobilecms/s357x357_jfs/t3421/92/270677877/214026/8f366557/5804fe11Nde9d5f1a.jpg!q50.jpg",
+        "description": "与React|Angular三分天下",
+        "bookPrice": 88.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      },
+      {
+        "bookId": 6,
+        "bookName": "react全栈课程",
+        "bookAuthor": "XXX",
+
+        "bookIcon": "",
+        "bookImgs": "https://m.360buyimg.com/mobilecms/s357x357_jfs/t3421/92/270677877/214026/8f366557/5804fe11Nde9d5f1a.jpg!q50.jpg",
+        "description": "与React|Angular三分天下",
+        "bookPrice": 88.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      },
+      {
+        "bookId": 7,
+        "bookName": "react全栈课程",
+        "bookAuthor": "XXX",
+
+        "bookIcon": "",
+        "bookImgs": "https://m.360buyimg.com/mobilecms/s357x357_jfs/t3421/92/270677877/214026/8f366557/5804fe11Nde9d5f1a.jpg!q50.jpg",
+        "description": "与React|Angular三分天下",
+        "bookPrice": 88.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      },
+      {
+        "bookId": 8,
+        "bookName": "react全栈课程",
+        "bookAuthor": "XXX",
+
+        "bookIcon": "",
+        "bookImgs": "https://m.360buyimg.com/mobilecms/s357x357_jfs/t3421/92/270677877/214026/8f366557/5804fe11Nde9d5f1a.jpg!q50.jpg",
+        "description": "与React|Angular三分天下",
+        "bookPrice": 88.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      },
+      {
+        "bookId": 9,
+        "bookName": "react全栈课程",
+        "bookAuthor": "XXX",
+
+        "bookIcon": "",
+        "bookImgs": "https://m.360buyimg.com/mobilecms/s357x357_jfs/t3421/92/270677877/214026/8f366557/5804fe11Nde9d5f1a.jpg!q50.jpg",
+        "description": "与React|Angular三分天下",
+        "bookPrice": 88.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      },
+      {
+        "bookId": 10,
+        "bookName": "react全栈课程",
+        "bookAuthor": "XXX",
+
+        "bookIcon": "",
+        "bookImgs": "https://m.360buyimg.com/mobilecms/s357x357_jfs/t3421/92/270677877/214026/8f366557/5804fe11Nde9d5f1a.jpg!q50.jpg",
+        "description": "与React|Angular三分天下",
+        "bookPrice": 88.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      }
+    ]
+  },
+  {
+    "kindId": 2,
+    "kindName": "文学名著",
+    "kindIcon": "",
+    "kindSliderImgs": [
+      "https://img11.360buyimg.com/n2/s240x240_jfs/t17326/349/2562551684/188787/a64aa1c/5afbde1cNaa625c8d.jpg!q70.jpg",
+      "https://img11.360buyimg.com/mobilecms/s270x270_jfs/t856/216/1127983647/1080639/43a3eae9/5577d15cNf5f7c9c9.jpg!q70.dpg.webp",
+      "https://img10.360buyimg.com/mobilecms/s455x455_jfs/t2089/340/1591458800/514011/6948f8db/5667ed17Ne6b10ed0.jpg!q70.dpg.webp"
+    ],
+    "list": [
+      {
+        "bookId": 1,
+        "bookName": "月亮与六便士",
+        "bookAuthor": "XXX",
+
+        "bookIcon": "",
+        "bookImgs": "https://img11.360buyimg.com/n2/s240x240_jfs/t17326/349/2562551684/188787/a64aa1c/5afbde1cNaa625c8d.jpg!q70.jpg",
+        "description": "2017豆瓣阅读桂冠图书！开创靠口碑一年狂卖100万册畅销奇迹！译者获波比小说大奖！京东18万名读者全5星好评推荐，认准诗人徐淳刚译本，拒绝山寨版、跟风劣质书！限时特惠，今日必抢！",
+        "bookPrice": 29.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 134,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      },
+      {
+        "bookId": 2,
+        "bookName": "霍乱时期的爱情",
+        "bookAuthor": "XXX",
+
+        "bookIcon": "",
+        "bookImgs": "https://img11.360buyimg.com/mobilecms/s270x270_jfs/t856/216/1127983647/1080639/43a3eae9/5577d15cNf5f7c9c9.jpg!q70.dpg.webp",
+        "description": "一本好书 腾讯视频栏目推荐。中文版销售超过100万册！“人类有史以来很伟大的爱情小说！”",
+        "bookPrice": 25.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      },
+      {
+        "bookId": 3,
+        "bookName": "肖申克的救赎",
+        "bookAuthor": "XXX",
+
+        "bookIcon": "",
+        "bookImgs": "https://img10.360buyimg.com/mobilecms/s455x455_jfs/t2089/340/1591458800/514011/6948f8db/5667ed17Ne6b10ed0.jpg!q70.dpg.webp",
+        "description": "惊悚题材永远的王者！畅销霸主！同名电影获奥斯卡奖七项提名，被誉为电影*完美影片之一！",
+        "bookPrice": 88.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      }
+    ]
+  },
+  {
+    "kindId": 3,
+    "kindName": "管理学",
+    "kindIcon": "",
+    "kindSliderImgs": [
+      "https://img13.360buyimg.com/n2/s240x240_jfs/t15667/160/563569281/151713/d4fab374/5a373299N4978d724.jpg!q70.jpg",
+      "https://img11.360buyimg.com/mobilecms/s270x270_jfs/t856/216/1127983647/1080639/43a3eae9/5577d15cNf5f7c9c9.jpg!q70.dpg.webp",
+      "https://img10.360buyimg.com/mobilecms/s455x455_jfs/t2089/340/1591458800/514011/6948f8db/5667ed17Ne6b10ed0.jpg!q70.dpg.webp"
+    ],
+    "list": [
+      {
+        "bookId": 1,
+        "bookName": "原则",
+        "bookAuthor": "瑞·达利欧 著",
+        "bookIcon": "",
+        "bookImgs": "https://img13.360buyimg.com/n2/s240x240_jfs/t15667/160/563569281/151713/d4fab374/5a373299N4978d724.jpg!q70.jpg",
+        "description": "《原则解读本》已赠完。时间的朋友·2017罗振宇跨年演讲推荐，华尔街投资大神、桥水创始人瑞·达利欧，人生经验、投资理念大公开！比尔·盖茨、张瑞敏、常振明、朱民、高西庆、潘石屹、傅盛、李笑来强烈推荐！",
+        "bookPrice": 49.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      },
+      {
+        "bookId": 2,
+        "bookName": "逻辑思维",
+        "bookAuthor": "[日]嶋田毅 著",
+        "bookIcon": "",
+        "bookImgs": "https://img10.360buyimg.com/mobilecms/s455x455_jfs/t6412/184/1129571653/481887/a3a83b08/594a49b8N5007e5fd.jpg!q70.dpg.webp",
+        "description": "正确的思维引导正确的结果。 一本极易上手、彻底转换你思维方式的逻辑指南。 突破思维瓶颈，直抵问题本质与核心，全面提升思考问题、写作、言语表达能力。",
+        "bookPrice": 36.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      },
+      {
+        "bookId": 3,
+        "bookName": "深度思考",
+        "bookAuthor": "[美]莫琳.希凯 著",
+        "bookIcon": "",
+        "bookImgs": "https://img10.360buyimg.com/mobilecms/s455x455_jfs/t23191/84/2588279951/200826/3d12b2da/5b863aa7Nfb96ba8b.jpg!q70.dpg.webp",
+        "description": "《出版人周刊》、百事可乐总裁兼CEO、J.Crew集团CEO等大咖力荐畅销书！揭开在所有领域都能取得成功的高手思维方式。天道未必酬勤，任何深度思考前的盲目勤奋，注定都是吃力不讨好的徒劳！",
+        "bookPrice": 58.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      }
+    ]
+  },
+  {
+    "kindId": 4,
+    "kindName": "经济学",
+    "kindIcon": "",
+    "kindSliderImgs": [
+      "https://img13.360buyimg.com/n2/s240x240_jfs/t15667/160/563569281/151713/d4fab374/5a373299N4978d724.jpg!q70.jpg",
+      "https://img11.360buyimg.com/mobilecms/s270x270_jfs/t856/216/1127983647/1080639/43a3eae9/5577d15cNf5f7c9c9.jpg!q70.dpg.webp",
+      "https://img10.360buyimg.com/mobilecms/s455x455_jfs/t2089/340/1591458800/514011/6948f8db/5667ed17Ne6b10ed0.jpg!q70.dpg.webp"
+    ],
+    "list": [
+      {
+        "bookId": 1,
+        "bookName": "原则",
+        "bookAuthor": "瑞·达利欧 著",
+        "bookIcon": "",
+        "bookImgs": "https://img13.360buyimg.com/n2/s240x240_jfs/t15667/160/563569281/151713/d4fab374/5a373299N4978d724.jpg!q70.jpg",
+        "description": "《原则解读本》已赠完。时间的朋友·2017罗振宇跨年演讲推荐，华尔街投资大神、桥水创始人瑞·达利欧，人生经验、投资理念大公开！比尔·盖茨、张瑞敏、常振明、朱民、高西庆、潘石屹、傅盛、李笑来强烈推荐！",
+        "bookPrice": 49.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      },
+      {
+        "bookId": 2,
+        "bookName": "逻辑思维",
+        "bookAuthor": "[日]嶋田毅 著",
+        "bookIcon": "",
+        "bookImgs": "https://img10.360buyimg.com/mobilecms/s455x455_jfs/t6412/184/1129571653/481887/a3a83b08/594a49b8N5007e5fd.jpg!q70.dpg.webp",
+        "description": "正确的思维引导正确的结果。 一本极易上手、彻底转换你思维方式的逻辑指南。 突破思维瓶颈，直抵问题本质与核心，全面提升思考问题、写作、言语表达能力。",
+        "bookPrice": 36.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      },
+      {
+        "bookId": 3,
+        "bookName": "深度思考",
+        "bookAuthor": "[美]莫琳.希凯 著",
+        "bookIcon": "",
+        "bookImgs": "https://img10.360buyimg.com/mobilecms/s455x455_jfs/t23191/84/2588279951/200826/3d12b2da/5b863aa7Nfb96ba8b.jpg!q70.dpg.webp",
+        "description": "《出版人周刊》、百事可乐总裁兼CEO、J.Crew集团CEO等大咖力荐畅销书！揭开在所有领域都能取得成功的高手思维方式。天道未必酬勤，任何深度思考前的盲目勤奋，注定都是吃力不讨好的徒劳！",
+        "bookPrice": 58.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      }
+    ]
+  },
+  {
+    "kindId": 5,
+    "kindName": "儿童心理学",
+    "kindIcon": "",
+    "kindSliderImgs": [
+      "https://img13.360buyimg.com/n2/s240x240_jfs/t15667/160/563569281/151713/d4fab374/5a373299N4978d724.jpg!q70.jpg",
+      "https://img11.360buyimg.com/mobilecms/s270x270_jfs/t856/216/1127983647/1080639/43a3eae9/5577d15cNf5f7c9c9.jpg!q70.dpg.webp",
+      "https://img10.360buyimg.com/mobilecms/s455x455_jfs/t2089/340/1591458800/514011/6948f8db/5667ed17Ne6b10ed0.jpg!q70.dpg.webp"
+    ],
+    "list": [
+      {
+        "bookId": 1,
+        "bookName": "原则",
+        "bookAuthor": "瑞·达利欧 著",
+        "bookIcon": "",
+        "bookImgs": "https://img13.360buyimg.com/n2/s240x240_jfs/t15667/160/563569281/151713/d4fab374/5a373299N4978d724.jpg!q70.jpg",
+        "description": "《原则解读本》已赠完。时间的朋友·2017罗振宇跨年演讲推荐，华尔街投资大神、桥水创始人瑞·达利欧，人生经验、投资理念大公开！比尔·盖茨、张瑞敏、常振明、朱民、高西庆、潘石屹、傅盛、李笑来强烈推荐！",
+        "bookPrice": 49.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      },
+      {
+        "bookId": 2,
+        "bookName": "逻辑思维",
+        "bookAuthor": "[日]嶋田毅 著",
+        "bookIcon": "",
+        "bookImgs": "https://img10.360buyimg.com/mobilecms/s455x455_jfs/t6412/184/1129571653/481887/a3a83b08/594a49b8N5007e5fd.jpg!q70.dpg.webp",
+        "description": "正确的思维引导正确的结果。 一本极易上手、彻底转换你思维方式的逻辑指南。 突破思维瓶颈，直抵问题本质与核心，全面提升思考问题、写作、言语表达能力。",
+        "bookPrice": 36.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      },
+      {
+        "bookId": 3,
+        "bookName": "深度思考",
+        "bookAuthor": "[美]莫琳.希凯 著",
+        "bookIcon": "",
+        "bookImgs": "https://img10.360buyimg.com/mobilecms/s455x455_jfs/t23191/84/2588279951/200826/3d12b2da/5b863aa7Nfb96ba8b.jpg!q70.dpg.webp",
+        "description": "《出版人周刊》、百事可乐总裁兼CEO、J.Crew集团CEO等大咖力荐畅销书！揭开在所有领域都能取得成功的高手思维方式。天道未必酬勤，任何深度思考前的盲目勤奋，注定都是吃力不讨好的徒劳！",
+        "bookPrice": 58.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      }
+    ]
+  },
+  {
+    "kindId": 6,
+    "kindName": "天文",
+    "kindIcon": "",
+    "kindSliderImgs": [
+      "https://img13.360buyimg.com/n2/s240x240_jfs/t15667/160/563569281/151713/d4fab374/5a373299N4978d724.jpg!q70.jpg",
+      "https://img11.360buyimg.com/mobilecms/s270x270_jfs/t856/216/1127983647/1080639/43a3eae9/5577d15cNf5f7c9c9.jpg!q70.dpg.webp",
+      "https://img10.360buyimg.com/mobilecms/s455x455_jfs/t2089/340/1591458800/514011/6948f8db/5667ed17Ne6b10ed0.jpg!q70.dpg.webp"
+    ],
+    "list": [
+      {
+        "bookId": 1,
+        "bookName": "原则",
+        "bookAuthor": "瑞·达利欧 著",
+        "bookIcon": "",
+        "bookImgs": "https://img13.360buyimg.com/n2/s240x240_jfs/t15667/160/563569281/151713/d4fab374/5a373299N4978d724.jpg!q70.jpg",
+        "description": "《原则解读本》已赠完。时间的朋友·2017罗振宇跨年演讲推荐，华尔街投资大神、桥水创始人瑞·达利欧，人生经验、投资理念大公开！比尔·盖茨、张瑞敏、常振明、朱民、高西庆、潘石屹、傅盛、李笑来强烈推荐！",
+        "bookPrice": 49.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      },
+      {
+        "bookId": 2,
+        "bookName": "逻辑思维",
+        "bookAuthor": "[日]嶋田毅 著",
+        "bookIcon": "",
+        "bookImgs": "https://img10.360buyimg.com/mobilecms/s455x455_jfs/t6412/184/1129571653/481887/a3a83b08/594a49b8N5007e5fd.jpg!q70.dpg.webp",
+        "description": "正确的思维引导正确的结果。 一本极易上手、彻底转换你思维方式的逻辑指南。 突破思维瓶颈，直抵问题本质与核心，全面提升思考问题、写作、言语表达能力。",
+        "bookPrice": 36.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      },
+      {
+        "bookId": 3,
+        "bookName": "深度思考",
+        "bookAuthor": "[美]莫琳.希凯 著",
+        "bookIcon": "",
+        "bookImgs": "https://img10.360buyimg.com/mobilecms/s455x455_jfs/t23191/84/2588279951/200826/3d12b2da/5b863aa7Nfb96ba8b.jpg!q70.dpg.webp",
+        "description": "《出版人周刊》、百事可乐总裁兼CEO、J.Crew集团CEO等大咖力荐畅销书！揭开在所有领域都能取得成功的高手思维方式。天道未必酬勤，任何深度思考前的盲目勤奋，注定都是吃力不讨好的徒劳！",
+        "bookPrice": 58.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      }
+    ]
+  },
+  {
+    "kindId": 7,
+    "kindName": "地理",
+    "kindIcon": "",
+    "kindSliderImgs": [
+      "https://img13.360buyimg.com/n2/s240x240_jfs/t15667/160/563569281/151713/d4fab374/5a373299N4978d724.jpg!q70.jpg",
+      "https://img11.360buyimg.com/mobilecms/s270x270_jfs/t856/216/1127983647/1080639/43a3eae9/5577d15cNf5f7c9c9.jpg!q70.dpg.webp",
+      "https://img10.360buyimg.com/mobilecms/s455x455_jfs/t2089/340/1591458800/514011/6948f8db/5667ed17Ne6b10ed0.jpg!q70.dpg.webp"
+    ],
+    "list": [
+      {
+        "bookId": 1,
+        "bookName": "原则",
+        "bookAuthor": "瑞·达利欧 著",
+        "bookIcon": "",
+        "bookImgs": "https://img13.360buyimg.com/n2/s240x240_jfs/t15667/160/563569281/151713/d4fab374/5a373299N4978d724.jpg!q70.jpg",
+        "description": "《原则解读本》已赠完。时间的朋友·2017罗振宇跨年演讲推荐，华尔街投资大神、桥水创始人瑞·达利欧，人生经验、投资理念大公开！比尔·盖茨、张瑞敏、常振明、朱民、高西庆、潘石屹、傅盛、李笑来强烈推荐！",
+        "bookPrice": 49.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      },
+      {
+        "bookId": 2,
+        "bookName": "逻辑思维",
+        "bookAuthor": "[日]嶋田毅 著",
+        "bookIcon": "",
+        "bookImgs": "https://img10.360buyimg.com/mobilecms/s455x455_jfs/t6412/184/1129571653/481887/a3a83b08/594a49b8N5007e5fd.jpg!q70.dpg.webp",
+        "description": "正确的思维引导正确的结果。 一本极易上手、彻底转换你思维方式的逻辑指南。 突破思维瓶颈，直抵问题本质与核心，全面提升思考问题、写作、言语表达能力。",
+        "bookPrice": 36.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      },
+      {
+        "bookId": 3,
+        "bookName": "深度思考",
+        "bookAuthor": "[美]莫琳.希凯 著",
+        "bookIcon": "",
+        "bookImgs": "https://img10.360buyimg.com/mobilecms/s455x455_jfs/t23191/84/2588279951/200826/3d12b2da/5b863aa7Nfb96ba8b.jpg!q70.dpg.webp",
+        "description": "《出版人周刊》、百事可乐总裁兼CEO、J.Crew集团CEO等大咖力荐畅销书！揭开在所有领域都能取得成功的高手思维方式。天道未必酬勤，任何深度思考前的盲目勤奋，注定都是吃力不讨好的徒劳！",
+        "bookPrice": 58.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      }
+    ]
+  },
+  {
+    "kindId": 8,
+    "kindName": "建筑",
+    "kindIcon": "",
+    "kindSliderImgs": [
+      "https://img13.360buyimg.com/n2/s240x240_jfs/t15667/160/563569281/151713/d4fab374/5a373299N4978d724.jpg!q70.jpg",
+      "https://img11.360buyimg.com/mobilecms/s270x270_jfs/t856/216/1127983647/1080639/43a3eae9/5577d15cNf5f7c9c9.jpg!q70.dpg.webp",
+      "https://img10.360buyimg.com/mobilecms/s455x455_jfs/t2089/340/1591458800/514011/6948f8db/5667ed17Ne6b10ed0.jpg!q70.dpg.webp"
+    ],
+    "list": [
+      {
+        "bookId": 1,
+        "bookName": "原则",
+        "bookAuthor": "瑞·达利欧 著",
+        "bookIcon": "",
+        "bookImgs": "https://img13.360buyimg.com/n2/s240x240_jfs/t15667/160/563569281/151713/d4fab374/5a373299N4978d724.jpg!q70.jpg",
+        "description": "《原则解读本》已赠完。时间的朋友·2017罗振宇跨年演讲推荐，华尔街投资大神、桥水创始人瑞·达利欧，人生经验、投资理念大公开！比尔·盖茨、张瑞敏、常振明、朱民、高西庆、潘石屹、傅盛、李笑来强烈推荐！",
+        "bookPrice": 49.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      },
+      {
+        "bookId": 2,
+        "bookName": "逻辑思维",
+        "bookAuthor": "[日]嶋田毅 著",
+        "bookIcon": "",
+        "bookImgs": "https://img10.360buyimg.com/mobilecms/s455x455_jfs/t6412/184/1129571653/481887/a3a83b08/594a49b8N5007e5fd.jpg!q70.dpg.webp",
+        "description": "正确的思维引导正确的结果。 一本极易上手、彻底转换你思维方式的逻辑指南。 突破思维瓶颈，直抵问题本质与核心，全面提升思考问题、写作、言语表达能力。",
+        "bookPrice": 36.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      },
+      {
+        "bookId": 3,
+        "bookName": "深度思考",
+        "bookAuthor": "[美]莫琳.希凯 著",
+        "bookIcon": "",
+        "bookImgs": "https://img10.360buyimg.com/mobilecms/s455x455_jfs/t23191/84/2588279951/200826/3d12b2da/5b863aa7Nfb96ba8b.jpg!q70.dpg.webp",
+        "description": "《出版人周刊》、百事可乐总裁兼CEO、J.Crew集团CEO等大咖力荐畅销书！揭开在所有领域都能取得成功的高手思维方式。天道未必酬勤，任何深度思考前的盲目勤奋，注定都是吃力不讨好的徒劳！",
+        "bookPrice": 58.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      }
+    ]
+  },
+  {
+    "kindId": 9,
+    "kindName": "哲学",
+    "kindIcon": "",
+    "kindSliderImgs": [
+      "https://img13.360buyimg.com/n2/s240x240_jfs/t15667/160/563569281/151713/d4fab374/5a373299N4978d724.jpg!q70.jpg",
+      "https://img11.360buyimg.com/mobilecms/s270x270_jfs/t856/216/1127983647/1080639/43a3eae9/5577d15cNf5f7c9c9.jpg!q70.dpg.webp",
+      "https://img10.360buyimg.com/mobilecms/s455x455_jfs/t2089/340/1591458800/514011/6948f8db/5667ed17Ne6b10ed0.jpg!q70.dpg.webp"
+    ],
+    "list": [
+      {
+        "bookId": 1,
+        "bookName": "原则",
+        "bookAuthor": "瑞·达利欧 著",
+        "bookIcon": "",
+        "bookImgs": "https://img13.360buyimg.com/n2/s240x240_jfs/t15667/160/563569281/151713/d4fab374/5a373299N4978d724.jpg!q70.jpg",
+        "description": "《原则解读本》已赠完。时间的朋友·2017罗振宇跨年演讲推荐，华尔街投资大神、桥水创始人瑞·达利欧，人生经验、投资理念大公开！比尔·盖茨、张瑞敏、常振明、朱民、高西庆、潘石屹、傅盛、李笑来强烈推荐！",
+        "bookPrice": 49.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      },
+      {
+        "bookId": 2,
+        "bookName": "逻辑思维",
+        "bookAuthor": "[日]嶋田毅 著",
+        "bookIcon": "",
+        "bookImgs": "https://img10.360buyimg.com/mobilecms/s455x455_jfs/t6412/184/1129571653/481887/a3a83b08/594a49b8N5007e5fd.jpg!q70.dpg.webp",
+        "description": "正确的思维引导正确的结果。 一本极易上手、彻底转换你思维方式的逻辑指南。 突破思维瓶颈，直抵问题本质与核心，全面提升思考问题、写作、言语表达能力。",
+        "bookPrice": 36.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      },
+      {
+        "bookId": 3,
+        "bookName": "深度思考",
+        "bookAuthor": "[美]莫琳.希凯 著",
+        "bookIcon": "",
+        "bookImgs": "https://img10.360buyimg.com/mobilecms/s455x455_jfs/t23191/84/2588279951/200826/3d12b2da/5b863aa7Nfb96ba8b.jpg!q70.dpg.webp",
+        "description": "《出版人周刊》、百事可乐总裁兼CEO、J.Crew集团CEO等大咖力荐畅销书！揭开在所有领域都能取得成功的高手思维方式。天道未必酬勤，任何深度思考前的盲目勤奋，注定都是吃力不讨好的徒劳！",
+        "bookPrice": 58.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      }
+    ]
+  },
+  {
+    "kindId": 10,
+    "kindName": "人文社科",
+    "kindIcon": "",
+    "kindSliderImgs": [
+      "https://img13.360buyimg.com/n2/s240x240_jfs/t15667/160/563569281/151713/d4fab374/5a373299N4978d724.jpg!q70.jpg",
+      "https://img11.360buyimg.com/mobilecms/s270x270_jfs/t856/216/1127983647/1080639/43a3eae9/5577d15cNf5f7c9c9.jpg!q70.dpg.webp",
+      "https://img10.360buyimg.com/mobilecms/s455x455_jfs/t2089/340/1591458800/514011/6948f8db/5667ed17Ne6b10ed0.jpg!q70.dpg.webp"
+    ],
+    "list": [
+      {
+        "bookId": 1,
+        "bookName": "原则",
+        "bookAuthor": "瑞·达利欧 著",
+        "bookIcon": "",
+        "bookImgs": "https://img13.360buyimg.com/n2/s240x240_jfs/t15667/160/563569281/151713/d4fab374/5a373299N4978d724.jpg!q70.jpg",
+        "description": "《原则解读本》已赠完。时间的朋友·2017罗振宇跨年演讲推荐，华尔街投资大神、桥水创始人瑞·达利欧，人生经验、投资理念大公开！比尔·盖茨、张瑞敏、常振明、朱民、高西庆、潘石屹、傅盛、李笑来强烈推荐！",
+        "bookPrice": 49.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      },
+      {
+        "bookId": 2,
+        "bookName": "逻辑思维",
+        "bookAuthor": "[日]嶋田毅 著",
+        "bookIcon": "",
+        "bookImgs": "https://img10.360buyimg.com/mobilecms/s455x455_jfs/t6412/184/1129571653/481887/a3a83b08/594a49b8N5007e5fd.jpg!q70.dpg.webp",
+        "description": "正确的思维引导正确的结果。 一本极易上手、彻底转换你思维方式的逻辑指南。 突破思维瓶颈，直抵问题本质与核心，全面提升思考问题、写作、言语表达能力。",
+        "bookPrice": 36.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      },
+      {
+        "bookId": 3,
+        "bookName": "深度思考",
+        "bookAuthor": "[美]莫琳.希凯 著",
+        "bookIcon": "",
+        "bookImgs": "https://img10.360buyimg.com/mobilecms/s455x455_jfs/t23191/84/2588279951/200826/3d12b2da/5b863aa7Nfb96ba8b.jpg!q70.dpg.webp",
+        "description": "《出版人周刊》、百事可乐总裁兼CEO、J.Crew集团CEO等大咖力荐畅销书！揭开在所有领域都能取得成功的高手思维方式。天道未必酬勤，任何深度思考前的盲目勤奋，注定都是吃力不讨好的徒劳！",
+        "bookPrice": 58.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      }
+    ]
+  },
+  {
+    "kindId": 11,
+    "kindName": "中国历史",
+    "kindIcon": "",
+    "kindSliderImgs": [
+      "https://img13.360buyimg.com/n2/s240x240_jfs/t15667/160/563569281/151713/d4fab374/5a373299N4978d724.jpg!q70.jpg",
+      "https://img11.360buyimg.com/mobilecms/s270x270_jfs/t856/216/1127983647/1080639/43a3eae9/5577d15cNf5f7c9c9.jpg!q70.dpg.webp",
+      "https://img10.360buyimg.com/mobilecms/s455x455_jfs/t2089/340/1591458800/514011/6948f8db/5667ed17Ne6b10ed0.jpg!q70.dpg.webp"
+    ],
+    "list": [
+      {
+        "bookId": 1,
+        "bookName": "原则",
+        "bookAuthor": "瑞·达利欧 著",
+        "bookIcon": "",
+        "bookImgs": "https://img13.360buyimg.com/n2/s240x240_jfs/t15667/160/563569281/151713/d4fab374/5a373299N4978d724.jpg!q70.jpg",
+        "description": "《原则解读本》已赠完。时间的朋友·2017罗振宇跨年演讲推荐，华尔街投资大神、桥水创始人瑞·达利欧，人生经验、投资理念大公开！比尔·盖茨、张瑞敏、常振明、朱民、高西庆、潘石屹、傅盛、李笑来强烈推荐！",
+        "bookPrice": 49.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      },
+      {
+        "bookId": 2,
+        "bookName": "逻辑思维",
+        "bookAuthor": "[日]嶋田毅 著",
+        "bookIcon": "",
+        "bookImgs": "https://img10.360buyimg.com/mobilecms/s455x455_jfs/t6412/184/1129571653/481887/a3a83b08/594a49b8N5007e5fd.jpg!q70.dpg.webp",
+        "description": "正确的思维引导正确的结果。 一本极易上手、彻底转换你思维方式的逻辑指南。 突破思维瓶颈，直抵问题本质与核心，全面提升思考问题、写作、言语表达能力。",
+        "bookPrice": 36.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      },
+      {
+        "bookId": 3,
+        "bookName": "深度思考",
+        "bookAuthor": "[美]莫琳.希凯 著",
+        "bookIcon": "",
+        "bookImgs": "https://img10.360buyimg.com/mobilecms/s455x455_jfs/t23191/84/2588279951/200826/3d12b2da/5b863aa7Nfb96ba8b.jpg!q70.dpg.webp",
+        "description": "《出版人周刊》、百事可乐总裁兼CEO、J.Crew集团CEO等大咖力荐畅销书！揭开在所有领域都能取得成功的高手思维方式。天道未必酬勤，任何深度思考前的盲目勤奋，注定都是吃力不讨好的徒劳！",
+        "bookPrice": 58.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      }
+    ]
+  },
+  {
+    "kindId": 12,
+    "kindName": "情感历史",
+    "kindIcon": "",
+    "kindSliderImgs": [
+      "https://img13.360buyimg.com/n2/s240x240_jfs/t15667/160/563569281/151713/d4fab374/5a373299N4978d724.jpg!q70.jpg",
+      "https://img11.360buyimg.com/mobilecms/s270x270_jfs/t856/216/1127983647/1080639/43a3eae9/5577d15cNf5f7c9c9.jpg!q70.dpg.webp",
+      "https://img10.360buyimg.com/mobilecms/s455x455_jfs/t2089/340/1591458800/514011/6948f8db/5667ed17Ne6b10ed0.jpg!q70.dpg.webp"
+    ],
+    "list": [
+      {
+        "bookId": 1,
+        "bookName": "原则",
+        "bookAuthor": "瑞·达利欧 著",
+        "bookIcon": "",
+        "bookImgs": "https://img13.360buyimg.com/n2/s240x240_jfs/t15667/160/563569281/151713/d4fab374/5a373299N4978d724.jpg!q70.jpg",
+        "description": "《原则解读本》已赠完。时间的朋友·2017罗振宇跨年演讲推荐，华尔街投资大神、桥水创始人瑞·达利欧，人生经验、投资理念大公开！比尔·盖茨、张瑞敏、常振明、朱民、高西庆、潘石屹、傅盛、李笑来强烈推荐！",
+        "bookPrice": 49.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      },
+      {
+        "bookId": 2,
+        "bookName": "逻辑思维",
+        "bookAuthor": "[日]嶋田毅 著",
+        "bookIcon": "",
+        "bookImgs": "https://img10.360buyimg.com/mobilecms/s455x455_jfs/t6412/184/1129571653/481887/a3a83b08/594a49b8N5007e5fd.jpg!q70.dpg.webp",
+        "description": "正确的思维引导正确的结果。 一本极易上手、彻底转换你思维方式的逻辑指南。 突破思维瓶颈，直抵问题本质与核心，全面提升思考问题、写作、言语表达能力。",
+        "bookPrice": 36.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      },
+      {
+        "bookId": 3,
+        "bookName": "深度思考",
+        "bookAuthor": "[美]莫琳.希凯 著",
+        "bookIcon": "",
+        "bookImgs": "https://img10.360buyimg.com/mobilecms/s455x455_jfs/t23191/84/2588279951/200826/3d12b2da/5b863aa7Nfb96ba8b.jpg!q70.dpg.webp",
+        "description": "《出版人周刊》、百事可乐总裁兼CEO、J.Crew集团CEO等大咖力荐畅销书！揭开在所有领域都能取得成功的高手思维方式。天道未必酬勤，任何深度思考前的盲目勤奋，注定都是吃力不讨好的徒劳！",
+        "bookPrice": 58.00,
+        "cartNum": 0,
+        "isSelected": false,
+        "sale": 999,
+        "inventory": 9999,
+        "detail": {
+          "Content Introduction": "内容简介",
+          "Book evaluation": "书籍评价"
+        }
+      }
+    ]
+  }
+]

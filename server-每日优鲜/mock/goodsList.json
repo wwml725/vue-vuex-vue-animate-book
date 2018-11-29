@@ -1,0 +1,1056 @@
+[
+  {
+    "kid": 1,
+    "kind": "水果",
+    "kindIcon": "https://j-image.missfresh.cn/img_20170712184022323.png",
+    "kindSliderImgs": [
+      "https://j-image.missfresh.cn/img_20171122152918954.jpg?iopcmd=thumbnail&type=4&width=640",
+      "https://j-image.missfresh.cn/img_20171213140122098.jpg?iopcmd=thumbnail&type=4&width=640"
+    ],
+    "list": [
+      {
+        "gid": 1,
+        "goodsName": "红果肉里藏有无数甜蜜炸弹",
+        "goodsIcon": "https://image.missfresh.cn/8ceb3ee9990e46f891ecb6dd478db2d5.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/2e5e73e519934503b04d496d5784d930.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/d52fb73c1f9141f4a332a39dca8f227c.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "福建平和红肉蜜柚2.4-3斤*1个",
+        "price": 15.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 999,
+        "inventory": 9999,
+        "detail": {
+          "weight": "2.4-3斤",
+          "shelfLife": "立即食用",
+          "pack": "普装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513415782863448399.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 2,
+        "goodsName": "来自蜜柚之乡的香甜问候",
+        "goodsIcon": "https://image.missfresh.cn/7ee27c7707364e289deecb68520b6852.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/d9fd57736a6d4fe599f0a7342d5844d6.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "福建平和白肉蜜柚2.4-3斤*1个",
+        "price": 8.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 888,
+        "inventory": 9999,
+        "detail": {
+          "weight": "2.4-3斤",
+          "shelfLife": "立即食用",
+          "pack": "普装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513415782863448399.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 3,
+        "goodsName": "一手能掌握的红肉心",
+        "goodsIcon": "https://image.missfresh.cn/716f805a085147aa86565f0f83a3cf7c.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/31de349e400247a8b331fb7bbf61b9fa.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/78bd4e99b95a4d4dbf991eb0d4dc757d.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "越南红肉mini火龙果320g*1个",
+        "price": 10.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 777,
+        "inventory": 9999,
+        "detail": {
+          "weight": "320g",
+          "shelfLife": "立即食用",
+          "pack": "普装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513594506363104319.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 4,
+        "goodsName": "这么好的蓝莓  都想留给你吃",
+        "goodsIcon": "https://image.missfresh.cn/a6fa48abeb974c2c9b9ee45797408ffa.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/dc5d8ad54a20489ea0870437a5472f02.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/9648bb55704a4ebc9d724a99b8b3454f.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/3c78a063bb2e48e2b30eff0191ada16b.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/d0a36ebc0fee4a2caa116f91b31a3eb3.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "智利蓝莓125g*1盒",
+        "price": 21.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 666,
+        "inventory": 9999,
+        "detail": {
+          "weight": "125g",
+          "shelfLife": "立即食用",
+          "pack": "盒装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513592406458776549.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 5,
+        "goodsName": "口感像乳酪   营养不简单",
+        "goodsIcon": "https://image.missfresh.cn/f9a2fcae73f442b1b9961613b0d7d966.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/6fae4efbae8544589f2468ae17601917.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/a4f7302782914dc280f45bf97446aa6b.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "进口牛油果125g起*2个",
+        "price": 15.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 666,
+        "inventory": 9999,
+        "detail": {
+          "weight": "250g",
+          "shelfLife": "立即食用",
+          "pack": "袋装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513592064787883412.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 6,
+        "goodsName": "喝一口 假装在度假",
+        "goodsIcon": "https://image.missfresh.cn/b29d24b1d5f946ca9cde778448344312.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/8e85e59ca2b74b859dd58d09893476f4.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/f77353ff2679448099541060d047ff70.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "泰国香水椰青800g*2个",
+        "price": 18.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 555,
+        "inventory": 9999,
+        "detail": {
+          "weight": "1600g",
+          "shelfLife": "立即食用",
+          "pack": "普装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513592786924765883.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 7,
+        "goodsName": "我很丑 但是我很甜",
+        "goodsIcon": "https://image.missfresh.cn/e539cd00444e465085a2a5f16cc24569.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/c56d0b00cb864bc4bdc2cf49bdaf1fc6.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/52edfadc6c5540f8a514e68cd62d1812.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/86e1912951514d7681dd0534855d7fb8.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "新疆阿克苏苹果200g-250g*4个",
+        "price": 13.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 555,
+        "inventory": 9999,
+        "detail": {
+          "weight": "800-1000g",
+          "shelfLife": "立即食用",
+          "pack": "袋装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513594731959714765.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 8,
+        "goodsName": "红果肉里藏有无数甜蜜炸弹",
+        "goodsIcon": "https://image.missfresh.cn/8ceb3ee9990e46f891ecb6dd478db2d5.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/2e5e73e519934503b04d496d5784d930.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/d52fb73c1f9141f4a332a39dca8f227c.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "福建平和红肉蜜柚2.4-3斤*1个",
+        "price": 15.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 999,
+        "inventory": 9999,
+        "detail": {
+          "weight": "2.4-3斤",
+          "shelfLife": "立即食用",
+          "pack": "普装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513415782863448399.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 9,
+        "goodsName": "来自蜜柚之乡的香甜问候",
+        "goodsIcon": "https://image.missfresh.cn/7ee27c7707364e289deecb68520b6852.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/d9fd57736a6d4fe599f0a7342d5844d6.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "福建平和白肉蜜柚2.4-3斤*1个",
+        "price": 8.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 888,
+        "inventory": 9999,
+        "detail": {
+          "weight": "2.4-3斤",
+          "shelfLife": "立即食用",
+          "pack": "普装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513415782863448399.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 10,
+        "goodsName": "一手能掌握的红肉心",
+        "goodsIcon": "https://image.missfresh.cn/716f805a085147aa86565f0f83a3cf7c.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/31de349e400247a8b331fb7bbf61b9fa.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/78bd4e99b95a4d4dbf991eb0d4dc757d.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "越南红肉mini火龙果320g*1个",
+        "price": 10.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 777,
+        "inventory": 9999,
+        "detail": {
+          "weight": "320g",
+          "shelfLife": "立即食用",
+          "pack": "普装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513594506363104319.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 11,
+        "goodsName": "这么好的蓝莓  都想留给你吃",
+        "goodsIcon": "https://image.missfresh.cn/a6fa48abeb974c2c9b9ee45797408ffa.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/dc5d8ad54a20489ea0870437a5472f02.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/9648bb55704a4ebc9d724a99b8b3454f.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/3c78a063bb2e48e2b30eff0191ada16b.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/d0a36ebc0fee4a2caa116f91b31a3eb3.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "智利蓝莓125g*1盒",
+        "price": 21.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 666,
+        "inventory": 9999,
+        "detail": {
+          "weight": "125g",
+          "shelfLife": "立即食用",
+          "pack": "盒装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513592406458776549.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 12,
+        "goodsName": "口感像乳酪   营养不简单",
+        "goodsIcon": "https://image.missfresh.cn/f9a2fcae73f442b1b9961613b0d7d966.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/6fae4efbae8544589f2468ae17601917.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/a4f7302782914dc280f45bf97446aa6b.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "进口牛油果125g起*2个",
+        "price": 15.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 666,
+        "inventory": 9999,
+        "detail": {
+          "weight": "250g",
+          "shelfLife": "立即食用",
+          "pack": "袋装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513592064787883412.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 13,
+        "goodsName": "喝一口 假装在度假",
+        "goodsIcon": "https://image.missfresh.cn/b29d24b1d5f946ca9cde778448344312.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/8e85e59ca2b74b859dd58d09893476f4.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/f77353ff2679448099541060d047ff70.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "泰国香水椰青800g*2个",
+        "price": 18.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 555,
+        "inventory": 9999,
+        "detail": {
+          "weight": "1600g",
+          "shelfLife": "立即食用",
+          "pack": "普装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513592786924765883.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 14,
+        "goodsName": "我很丑 但是我很甜",
+        "goodsIcon": "https://image.missfresh.cn/e539cd00444e465085a2a5f16cc24569.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/c56d0b00cb864bc4bdc2cf49bdaf1fc6.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/52edfadc6c5540f8a514e68cd62d1812.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/86e1912951514d7681dd0534855d7fb8.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "新疆阿克苏苹果200g-250g*4个",
+        "price": 13.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 555,
+        "inventory": 9999,
+        "detail": {
+          "weight": "800-1000g",
+          "shelfLife": "立即食用",
+          "pack": "袋装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513594731959714765.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 15,
+        "goodsName": "红果肉里藏有无数甜蜜炸弹",
+        "goodsIcon": "https://image.missfresh.cn/8ceb3ee9990e46f891ecb6dd478db2d5.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/2e5e73e519934503b04d496d5784d930.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/d52fb73c1f9141f4a332a39dca8f227c.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "福建平和红肉蜜柚2.4-3斤*1个",
+        "price": 15.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 999,
+        "inventory": 9999,
+        "detail": {
+          "weight": "2.4-3斤",
+          "shelfLife": "立即食用",
+          "pack": "普装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513415782863448399.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 16,
+        "goodsName": "来自蜜柚之乡的香甜问候",
+        "goodsIcon": "https://image.missfresh.cn/7ee27c7707364e289deecb68520b6852.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/d9fd57736a6d4fe599f0a7342d5844d6.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "福建平和白肉蜜柚2.4-3斤*1个",
+        "price": 8.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 888,
+        "inventory": 9999,
+        "detail": {
+          "weight": "2.4-3斤",
+          "shelfLife": "立即食用",
+          "pack": "普装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513415782863448399.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 17,
+        "goodsName": "一手能掌握的红肉心",
+        "goodsIcon": "https://image.missfresh.cn/716f805a085147aa86565f0f83a3cf7c.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/31de349e400247a8b331fb7bbf61b9fa.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/78bd4e99b95a4d4dbf991eb0d4dc757d.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "越南红肉mini火龙果320g*1个",
+        "price": 10.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 777,
+        "inventory": 9999,
+        "detail": {
+          "weight": "320g",
+          "shelfLife": "立即食用",
+          "pack": "普装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513594506363104319.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 18,
+        "goodsName": "这么好的蓝莓  都想留给你吃",
+        "goodsIcon": "https://image.missfresh.cn/a6fa48abeb974c2c9b9ee45797408ffa.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/dc5d8ad54a20489ea0870437a5472f02.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/9648bb55704a4ebc9d724a99b8b3454f.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/3c78a063bb2e48e2b30eff0191ada16b.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/d0a36ebc0fee4a2caa116f91b31a3eb3.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "智利蓝莓125g*1盒",
+        "price": 21.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 666,
+        "inventory": 9999,
+        "detail": {
+          "weight": "125g",
+          "shelfLife": "立即食用",
+          "pack": "盒装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513592406458776549.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 19,
+        "goodsName": "口感像乳酪   营养不简单",
+        "goodsIcon": "https://image.missfresh.cn/f9a2fcae73f442b1b9961613b0d7d966.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/6fae4efbae8544589f2468ae17601917.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/a4f7302782914dc280f45bf97446aa6b.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "进口牛油果125g起*2个",
+        "price": 15.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 666,
+        "inventory": 9999,
+        "detail": {
+          "weight": "250g",
+          "shelfLife": "立即食用",
+          "pack": "袋装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513592064787883412.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 20,
+        "goodsName": "喝一口 假装在度假",
+        "goodsIcon": "https://image.missfresh.cn/b29d24b1d5f946ca9cde778448344312.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/8e85e59ca2b74b859dd58d09893476f4.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/f77353ff2679448099541060d047ff70.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "泰国香水椰青800g*2个",
+        "price": 18.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 555,
+        "inventory": 9999,
+        "detail": {
+          "weight": "1600g",
+          "shelfLife": "立即食用",
+          "pack": "普装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513592786924765883.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 21,
+        "goodsName": "我很丑 但是我很甜",
+        "goodsIcon": "https://image.missfresh.cn/e539cd00444e465085a2a5f16cc24569.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/c56d0b00cb864bc4bdc2cf49bdaf1fc6.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/52edfadc6c5540f8a514e68cd62d1812.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/86e1912951514d7681dd0534855d7fb8.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "新疆阿克苏苹果200g-250g*4个",
+        "price": 13.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 555,
+        "inventory": 9999,
+        "detail": {
+          "weight": "800-1000g",
+          "shelfLife": "立即食用",
+          "pack": "袋装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513594731959714765.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 22,
+        "goodsName": "红果肉里藏有无数甜蜜炸弹",
+        "goodsIcon": "https://image.missfresh.cn/8ceb3ee9990e46f891ecb6dd478db2d5.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/2e5e73e519934503b04d496d5784d930.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/d52fb73c1f9141f4a332a39dca8f227c.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "福建平和红肉蜜柚2.4-3斤*1个",
+        "price": 15.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 999,
+        "inventory": 9999,
+        "detail": {
+          "weight": "2.4-3斤",
+          "shelfLife": "立即食用",
+          "pack": "普装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513415782863448399.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 23,
+        "goodsName": "来自蜜柚之乡的香甜问候",
+        "goodsIcon": "https://image.missfresh.cn/7ee27c7707364e289deecb68520b6852.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/d9fd57736a6d4fe599f0a7342d5844d6.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "福建平和白肉蜜柚2.4-3斤*1个",
+        "price": 8.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 888,
+        "inventory": 9999,
+        "detail": {
+          "weight": "2.4-3斤",
+          "shelfLife": "立即食用",
+          "pack": "普装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513415782863448399.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 24,
+        "goodsName": "一手能掌握的红肉心",
+        "goodsIcon": "https://image.missfresh.cn/716f805a085147aa86565f0f83a3cf7c.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/31de349e400247a8b331fb7bbf61b9fa.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/78bd4e99b95a4d4dbf991eb0d4dc757d.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "越南红肉mini火龙果320g*1个",
+        "price": 10.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 777,
+        "inventory": 9999,
+        "detail": {
+          "weight": "320g",
+          "shelfLife": "立即食用",
+          "pack": "普装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513594506363104319.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 25,
+        "goodsName": "这么好的蓝莓  都想留给你吃",
+        "goodsIcon": "https://image.missfresh.cn/a6fa48abeb974c2c9b9ee45797408ffa.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/dc5d8ad54a20489ea0870437a5472f02.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/9648bb55704a4ebc9d724a99b8b3454f.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/3c78a063bb2e48e2b30eff0191ada16b.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/d0a36ebc0fee4a2caa116f91b31a3eb3.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "智利蓝莓125g*1盒",
+        "price": 21.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 666,
+        "inventory": 9999,
+        "detail": {
+          "weight": "125g",
+          "shelfLife": "立即食用",
+          "pack": "盒装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513592406458776549.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 26,
+        "goodsName": "口感像乳酪   营养不简单",
+        "goodsIcon": "https://image.missfresh.cn/f9a2fcae73f442b1b9961613b0d7d966.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/6fae4efbae8544589f2468ae17601917.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/a4f7302782914dc280f45bf97446aa6b.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "进口牛油果125g起*2个",
+        "price": 15.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 666,
+        "inventory": 9999,
+        "detail": {
+          "weight": "250g",
+          "shelfLife": "立即食用",
+          "pack": "袋装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513592064787883412.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 27,
+        "goodsName": "喝一口 假装在度假",
+        "goodsIcon": "https://image.missfresh.cn/b29d24b1d5f946ca9cde778448344312.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/8e85e59ca2b74b859dd58d09893476f4.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/f77353ff2679448099541060d047ff70.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "泰国香水椰青800g*2个",
+        "price": 18.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 555,
+        "inventory": 9999,
+        "detail": {
+          "weight": "1600g",
+          "shelfLife": "立即食用",
+          "pack": "普装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513592786924765883.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 28,
+        "goodsName": "我很丑 但是我很甜",
+        "goodsIcon": "https://image.missfresh.cn/e539cd00444e465085a2a5f16cc24569.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/c56d0b00cb864bc4bdc2cf49bdaf1fc6.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/52edfadc6c5540f8a514e68cd62d1812.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/86e1912951514d7681dd0534855d7fb8.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "新疆阿克苏苹果200g-250g*4个",
+        "price": 13.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 555,
+        "inventory": 9999,
+        "detail": {
+          "weight": "800-1000g",
+          "shelfLife": "立即食用",
+          "pack": "袋装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513594731959714765.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 29,
+        "goodsName": "红果肉里藏有无数甜蜜炸弹",
+        "goodsIcon": "https://image.missfresh.cn/8ceb3ee9990e46f891ecb6dd478db2d5.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/2e5e73e519934503b04d496d5784d930.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/d52fb73c1f9141f4a332a39dca8f227c.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "福建平和红肉蜜柚2.4-3斤*1个",
+        "price": 15.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 999,
+        "inventory": 9999,
+        "detail": {
+          "weight": "2.4-3斤",
+          "shelfLife": "立即食用",
+          "pack": "普装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513415782863448399.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 30,
+        "goodsName": "来自蜜柚之乡的香甜问候",
+        "goodsIcon": "https://image.missfresh.cn/7ee27c7707364e289deecb68520b6852.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/d9fd57736a6d4fe599f0a7342d5844d6.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "福建平和白肉蜜柚2.4-3斤*1个",
+        "price": 8.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 888,
+        "inventory": 9999,
+        "detail": {
+          "weight": "2.4-3斤",
+          "shelfLife": "立即食用",
+          "pack": "普装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513415782863448399.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 31,
+        "goodsName": "一手能掌握的红肉心",
+        "goodsIcon": "https://image.missfresh.cn/716f805a085147aa86565f0f83a3cf7c.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/31de349e400247a8b331fb7bbf61b9fa.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/78bd4e99b95a4d4dbf991eb0d4dc757d.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "越南红肉mini火龙果320g*1个",
+        "price": 10.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 777,
+        "inventory": 9999,
+        "detail": {
+          "weight": "320g",
+          "shelfLife": "立即食用",
+          "pack": "普装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513594506363104319.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 32,
+        "goodsName": "这么好的蓝莓  都想留给你吃",
+        "goodsIcon": "https://image.missfresh.cn/a6fa48abeb974c2c9b9ee45797408ffa.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/dc5d8ad54a20489ea0870437a5472f02.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/9648bb55704a4ebc9d724a99b8b3454f.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/3c78a063bb2e48e2b30eff0191ada16b.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/d0a36ebc0fee4a2caa116f91b31a3eb3.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "智利蓝莓125g*1盒",
+        "price": 21.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 666,
+        "inventory": 9999,
+        "detail": {
+          "weight": "125g",
+          "shelfLife": "立即食用",
+          "pack": "盒装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513592406458776549.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 33,
+        "goodsName": "口感像乳酪   营养不简单",
+        "goodsIcon": "https://image.missfresh.cn/f9a2fcae73f442b1b9961613b0d7d966.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/6fae4efbae8544589f2468ae17601917.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/a4f7302782914dc280f45bf97446aa6b.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "进口牛油果125g起*2个",
+        "price": 15.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 666,
+        "inventory": 9999,
+        "detail": {
+          "weight": "250g",
+          "shelfLife": "立即食用",
+          "pack": "袋装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513592064787883412.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 34,
+        "goodsName": "喝一口 假装在度假",
+        "goodsIcon": "https://image.missfresh.cn/b29d24b1d5f946ca9cde778448344312.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/8e85e59ca2b74b859dd58d09893476f4.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/f77353ff2679448099541060d047ff70.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "泰国香水椰青800g*2个",
+        "price": 18.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 555,
+        "inventory": 9999,
+        "detail": {
+          "weight": "1600g",
+          "shelfLife": "立即食用",
+          "pack": "普装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513592786924765883.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 35,
+        "goodsName": "我很丑 但是我很甜",
+        "goodsIcon": "https://image.missfresh.cn/e539cd00444e465085a2a5f16cc24569.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/c56d0b00cb864bc4bdc2cf49bdaf1fc6.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/52edfadc6c5540f8a514e68cd62d1812.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/86e1912951514d7681dd0534855d7fb8.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "新疆阿克苏苹果200g-250g*4个",
+        "price": 13.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 555,
+        "inventory": 9999,
+        "detail": {
+          "weight": "800-1000g",
+          "shelfLife": "立即食用",
+          "pack": "袋装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513594731959714765.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 36,
+        "goodsName": "红果肉里藏有无数甜蜜炸弹",
+        "goodsIcon": "https://image.missfresh.cn/8ceb3ee9990e46f891ecb6dd478db2d5.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/2e5e73e519934503b04d496d5784d930.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/d52fb73c1f9141f4a332a39dca8f227c.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "福建平和红肉蜜柚2.4-3斤*1个",
+        "price": 15.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 999,
+        "inventory": 9999,
+        "detail": {
+          "weight": "2.4-3斤",
+          "shelfLife": "立即食用",
+          "pack": "普装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513415782863448399.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 37,
+        "goodsName": "来自蜜柚之乡的香甜问候",
+        "goodsIcon": "https://image.missfresh.cn/7ee27c7707364e289deecb68520b6852.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/d9fd57736a6d4fe599f0a7342d5844d6.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "福建平和白肉蜜柚2.4-3斤*1个",
+        "price": 8.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 888,
+        "inventory": 9999,
+        "detail": {
+          "weight": "2.4-3斤",
+          "shelfLife": "立即食用",
+          "pack": "普装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513415782863448399.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 38,
+        "goodsName": "一手能掌握的红肉心",
+        "goodsIcon": "https://image.missfresh.cn/716f805a085147aa86565f0f83a3cf7c.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/31de349e400247a8b331fb7bbf61b9fa.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/78bd4e99b95a4d4dbf991eb0d4dc757d.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "越南红肉mini火龙果320g*1个",
+        "price": 10.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 777,
+        "inventory": 9999,
+        "detail": {
+          "weight": "320g",
+          "shelfLife": "立即食用",
+          "pack": "普装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513594506363104319.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 39,
+        "goodsName": "这么好的蓝莓  都想留给你吃",
+        "goodsIcon": "https://image.missfresh.cn/a6fa48abeb974c2c9b9ee45797408ffa.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/dc5d8ad54a20489ea0870437a5472f02.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/9648bb55704a4ebc9d724a99b8b3454f.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/3c78a063bb2e48e2b30eff0191ada16b.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/d0a36ebc0fee4a2caa116f91b31a3eb3.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "智利蓝莓125g*1盒",
+        "price": 21.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 666,
+        "inventory": 9999,
+        "detail": {
+          "weight": "125g",
+          "shelfLife": "立即食用",
+          "pack": "盒装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513592406458776549.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 40,
+        "goodsName": "口感像乳酪   营养不简单",
+        "goodsIcon": "https://image.missfresh.cn/f9a2fcae73f442b1b9961613b0d7d966.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/6fae4efbae8544589f2468ae17601917.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/a4f7302782914dc280f45bf97446aa6b.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "进口牛油果125g起*2个",
+        "price": 15.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 666,
+        "inventory": 9999,
+        "detail": {
+          "weight": "250g",
+          "shelfLife": "立即食用",
+          "pack": "袋装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513592064787883412.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 41,
+        "goodsName": "喝一口 假装在度假",
+        "goodsIcon": "https://image.missfresh.cn/b29d24b1d5f946ca9cde778448344312.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/8e85e59ca2b74b859dd58d09893476f4.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/f77353ff2679448099541060d047ff70.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "泰国香水椰青800g*2个",
+        "price": 18.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 555,
+        "inventory": 9999,
+        "detail": {
+          "weight": "1600g",
+          "shelfLife": "立即食用",
+          "pack": "普装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513592786924765883.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 42,
+        "goodsName": "我很丑 但是我很甜",
+        "goodsIcon": "https://image.missfresh.cn/e539cd00444e465085a2a5f16cc24569.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/c56d0b00cb864bc4bdc2cf49bdaf1fc6.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/52edfadc6c5540f8a514e68cd62d1812.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/86e1912951514d7681dd0534855d7fb8.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "新疆阿克苏苹果200g-250g*4个",
+        "price": 13.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 555,
+        "inventory": 9999,
+        "detail": {
+          "weight": "800-1000g",
+          "shelfLife": "立即食用",
+          "pack": "袋装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513594731959714765.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 43,
+        "goodsName": "红果肉里藏有无数甜蜜炸弹",
+        "goodsIcon": "https://image.missfresh.cn/8ceb3ee9990e46f891ecb6dd478db2d5.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/2e5e73e519934503b04d496d5784d930.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/d52fb73c1f9141f4a332a39dca8f227c.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "福建平和红肉蜜柚2.4-3斤*1个",
+        "price": 15.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 999,
+        "inventory": 9999,
+        "detail": {
+          "weight": "2.4-3斤",
+          "shelfLife": "立即食用",
+          "pack": "普装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513415782863448399.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 44,
+        "goodsName": "来自蜜柚之乡的香甜问候",
+        "goodsIcon": "https://image.missfresh.cn/7ee27c7707364e289deecb68520b6852.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/d9fd57736a6d4fe599f0a7342d5844d6.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "福建平和白肉蜜柚2.4-3斤*1个",
+        "price": 8.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 888,
+        "inventory": 9999,
+        "detail": {
+          "weight": "2.4-3斤",
+          "shelfLife": "立即食用",
+          "pack": "普装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513415782863448399.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 45,
+        "goodsName": "一手能掌握的红肉心",
+        "goodsIcon": "https://image.missfresh.cn/716f805a085147aa86565f0f83a3cf7c.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/31de349e400247a8b331fb7bbf61b9fa.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/78bd4e99b95a4d4dbf991eb0d4dc757d.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "越南红肉mini火龙果320g*1个",
+        "price": 10.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 777,
+        "inventory": 9999,
+        "detail": {
+          "weight": "320g",
+          "shelfLife": "立即食用",
+          "pack": "普装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513594506363104319.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 46,
+        "goodsName": "这么好的蓝莓  都想留给你吃",
+        "goodsIcon": "https://image.missfresh.cn/a6fa48abeb974c2c9b9ee45797408ffa.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/dc5d8ad54a20489ea0870437a5472f02.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/9648bb55704a4ebc9d724a99b8b3454f.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/3c78a063bb2e48e2b30eff0191ada16b.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/d0a36ebc0fee4a2caa116f91b31a3eb3.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "智利蓝莓125g*1盒",
+        "price": 21.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 666,
+        "inventory": 9999,
+        "detail": {
+          "weight": "125g",
+          "shelfLife": "立即食用",
+          "pack": "盒装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513592406458776549.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 47,
+        "goodsName": "口感像乳酪   营养不简单",
+        "goodsIcon": "https://image.missfresh.cn/f9a2fcae73f442b1b9961613b0d7d966.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/6fae4efbae8544589f2468ae17601917.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/a4f7302782914dc280f45bf97446aa6b.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "进口牛油果125g起*2个",
+        "price": 15.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 666,
+        "inventory": 9999,
+        "detail": {
+          "weight": "250g",
+          "shelfLife": "立即食用",
+          "pack": "袋装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513592064787883412.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 48,
+        "goodsName": "喝一口 假装在度假",
+        "goodsIcon": "https://image.missfresh.cn/b29d24b1d5f946ca9cde778448344312.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/8e85e59ca2b74b859dd58d09893476f4.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/f77353ff2679448099541060d047ff70.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "泰国香水椰青800g*2个",
+        "price": 18.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 555,
+        "inventory": 9999,
+        "detail": {
+          "weight": "1600g",
+          "shelfLife": "立即食用",
+          "pack": "普装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513592786924765883.png?iopcmd=convert&dst=jpg&q=80"
+      },
+      {
+        "gid": 49,
+        "goodsName": "我很丑 但是我很甜",
+        "goodsIcon": "https://image.missfresh.cn/e539cd00444e465085a2a5f16cc24569.jpg?iopcmd=thumbnail&type=4&width=200",
+        "goodsImgs": [
+          "https://image.missfresh.cn/c56d0b00cb864bc4bdc2cf49bdaf1fc6.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/52edfadc6c5540f8a514e68cd62d1812.jpg?iopcmd=thumbnail&type=4&width=640",
+          "https://image.missfresh.cn/86e1912951514d7681dd0534855d7fb8.jpg?iopcmd=thumbnail&type=4&width=640"
+        ],
+        "description": "新疆阿克苏苹果200g-250g*4个",
+        "price": 13.9,
+        "cartNum": 0,
+        "isSelected": false,
+        "sales": 555,
+        "inventory": 9999,
+        "detail": {
+          "weight": "800-1000g",
+          "shelfLife": "立即食用",
+          "pack": "袋装"
+        },
+        "quality": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1513594731959714765.png?iopcmd=convert&dst=jpg&q=80"
+      }
+    ]
+  }
+]

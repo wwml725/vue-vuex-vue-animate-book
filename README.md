@@ -52,9 +52,15 @@ npm install -g @vue/vli-init
 vue init webpack my-project
 ```
 #### 1、项目所用依赖
+前端依赖
 ```
 npm install vuex axios bootstrap --save
 npm install less less-loader --save-dev
+npm install vue-awesome-swiper --save
+```
+后端依赖
+```
+npm install express --save
 ```
 
 #### 2、项目主要目录
@@ -87,6 +93,15 @@ npm install less less-loader --save-dev
 ---
 
 ## 具体搭建步骤
+### 一、后端配置
+#### mock
+```
+npm install express --save
+```
+
+
+
+### 二、前端配置
 #### 1、完成布局组件（Layout）
 #### 2、路由（router）配置
 ```
@@ -164,4 +179,3 @@ export default new Router({
 
 
 
-# vue-vuex-vue-animate-book

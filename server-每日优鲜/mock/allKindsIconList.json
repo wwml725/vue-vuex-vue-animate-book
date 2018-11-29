@@ -1,0 +1,72 @@
+[
+  {
+    "kid": 1,
+    "kind": "水果",
+    "kindIcon": "https://j-image.missfresh.cn/img_20170712184022323.png"
+  },
+  {
+    "kid": 2,
+    "kind": "火锅",
+    "kindIcon": "https://j-image.missfresh.cn/img_20171013205023945.png"
+  },
+  {
+    "kid": 3,
+    "kind": "热卖",
+    "kindIcon": "https://j-image.missfresh.cn/img_20170613155747486.png"
+  },
+  {
+    "kid": 4,
+    "kind": "蔬菜",
+    "kindIcon": "https://j-image.missfresh.cn/img_20170613154320218.png"
+  },
+  {
+    "kid": 5,
+    "kind": "乳品",
+    "kindIcon": "https://j-image.missfresh.cn/img_20170712184335921.png"
+  },
+  {
+    "kid": 6,
+    "kind": "肉蛋",
+    "kindIcon": "https://j-image.missfresh.cn/img_20170712184216882.png"
+  },
+  {
+    "kid": 7,
+    "kind": "零食",
+    "kindIcon": "https://j-image.missfresh.cn/img_20170613155335895.png"
+  },
+  {
+    "kid": 8,
+    "kind": "酒饮",
+    "kindIcon": "https://j-image.missfresh.cn/img_20170613155448054.png"
+  },
+  {
+    "kid": 9,
+    "kind": "水产",
+    "kindIcon": "https://j-image.missfresh.cn/img_20170613155505764.png"
+  },
+  {
+    "kid": 10,
+    "kind": "熟食",
+    "kindIcon": "https://j-image.missfresh.cn/img_20171031191941929.png"
+  },
+  {
+    "kid": 11,
+    "kind": "素食",
+    "kindIcon": "https://j-image.missfresh.cn/img_20170613155537560.png"
+  },
+  {
+    "kid": 12,
+    "kind": "粮油",
+    "kindIcon": "https://j-image.missfresh.cn/img_20170613155808681.png"
+  },
+  {
+    "kid": 13,
+    "kind": "轻食",
+    "kindIcon": "https://j-image.missfresh.cn/img_20170712183416540.png"
+  },
+  {
+    "kid": 14,
+    "kind": "日百",
+    "kindIcon": "https://j-image.missfresh.cn/img_20170613155656228.png"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "uid": 1,
+    "avatar": "http://www.shangliushuai.cn/images/Ryan.jpg",
+    "username": "ryan",
+    "phone": "17601017600",
+    "password": "17601017600",
+    "isVIP": true,
+    "city": "北京",
+    "address": "昌平区回龙观东大街3号"
+  },
+  {
+    "uid": 2,
+    "avatar": "http://www.shangliushuai.cn/images/Ryan.jpg",
+    "username": "123",
+    "phone": "12345678910",
+    "password": "12345678910",
+    "isVIP": false,
+    "city": "北京",
+    "address": "昌平区回龙观东大街3号"
+  },
+  {
+    "uid": 3,
+    "avatar": "http://www.shangliushuai.cn/images/Ryan.jpg",
+    "username": "111",
+    "phone": "11111111111",
+    "password": "11111111111",
+    "isVIP": false,
+    "city": "北京",
+    "address": "昌平区回龙观东大街3号"
+  },
+  {
+    "uid": 4,
+    "avatar": "http://www.shangliushuai.cn/images/Ryan.jpg",
+    "username": "222",
+    "phone": "22222222222",
+    "password": "22222222222",
+    "isVIP": false,
+    "city": "北京",
+    "address": "昌平区回龙观东大街3号"
+  },
+  {
+    "uid": 5,
+    "avatar": "http://www.shangliushuai.cn/images/Ryan.jpg",
+    "username": "test",
+    "phone": "00000000000",
+    "password": "test",
+    "isVIP": false,
+    "city": "北京",
+    "address": "昌平区回龙观东大街3号"
+  },
+  {
+    "username": "斯达克警方",
+    "password": "11111111",
+    "phone": "12222222222",
+    "uid": 6,
+    "city": "北京",
+    "address": "",
+    "avatar": "http://www.shangliushuai.cn/images/Ryan.jpg",
+    "isVIP": false
+  },
+  {
+    "username": "fhjhfhgc",
+    "password": "888888",
+    "phone": "18888888888",
+    "uid": 7,
+    "city": "北京",
+    "address": "",
+    "avatar": "http://www.shangliushuai.cn/images/Ryan.jpg",
+    "isVIP": false
+  },
+  {
+    "username": "aslkdfj",
+    "password": "11111111",
+    "phone": "12333333333",
+    "uid": 8,
+    "city": "北京",
+    "address": "",
+    "avatar": "http://www.shangliushuai.cn/images/Ryan.jpg",
+    "isVIP": false
+  },
+  {
+    "username": "流",
+    "password": "111111",
+    "phone": "12222222224",
+    "uid": 9,
+    "city": "北京",
+    "address": "",
+    "avatar": "http://www.shangliushuai.cn/images/Ryan.jpg",
+    "isVIP": false
+  },
+  {
+    "username": "斯柯达爱上了的看法",
+    "password": "555555",
+    "phone": "15555555555",
+    "uid": 10,
+    "city": "北京",
+    "address": "",
+    "avatar": "http://www.shangliushuai.cn/images/Ryan.jpg",
+    "isVIP": false
+  },
+  {
+    "username": "qq",
+    "password": "123456",
+    "phone": "13301356209",
+    "uid": 11,
+    "city": "北京",
+    "address": "",
+    "avatar": "http://www.shangliushuai.cn/images/Ryan.jpg",
+    "isVIP": false
+  },
+  {
+    "username": "11",
+    "password": "111111",
+    "phone": "12345678909",
+    "uid": 12,
+    "city": "北京",
+    "address": "",
+    "avatar": "http://www.shangliushuai.cn/images/Ryan.jpg",
+    "isVIP": false
+  },
+  {
+    "username": "11111111111",
+    "password": "11111111111",
+    "phone": "11111111112",
+    "uid": 13,
+    "city": "北京",
+    "address": "",
+    "avatar": "http://www.shangliushuai.cn/images/Ryan.jpg",
+    "isVIP": false
+  },
+  {
+    "username": "11",
+    "password": "111111",
+    "phone": "11111111113",
+    "uid": 14,
+    "city": "北京",
+    "address": "",
+    "avatar": "http://www.shangliushuai.cn/images/Ryan.jpg",
+    "isVIP": false
+  },
+  {
+    "username": "11",
+    "password": "111111",
+    "phone": "11111111110",
+    "uid": 15,
+    "city": "北京",
+    "address": "",
+    "avatar": "http://www.shangliushuai.cn/images/Ryan.jpg",
+    "isVIP": false
+  }
+]
